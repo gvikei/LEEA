@@ -1,0 +1,5 @@
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharedParams\bin\x64\Debug\SharedParams.dll
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharedParams\bin\x64\Debug\SharedParams.pdb
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharedParams\obj\x64\Debug\SharedParams.dll
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharedParams\obj\x64\Debug\SharedParams.pdb
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharedParams\obj\x64\Debug\SharedParams.csprojResolveAssemblyReference.cache

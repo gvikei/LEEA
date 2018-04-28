@@ -1,0 +1,13 @@
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\bin\x64\Debug\LEEA.exe.config
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\bin\x64\Debug\LEEA.exe
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\bin\x64\Debug\LEEA.pdb
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\bin\x64\Debug\SharedParams.dll
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\bin\x64\Debug\SharpNeatLib.dll
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\bin\x64\Debug\log4net.dll
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\bin\x64\Debug\SharedParams.pdb
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\bin\x64\Debug\SharpNeatLib.pdb
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\bin\x64\Debug\SharpNeatLib.xml
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\bin\x64\Debug\log4net.xml
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\obj\x64\Debug\LEEA.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\obj\x64\Debug\LEEA.exe
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\LEEA\obj\x64\Debug\LEEA.pdb

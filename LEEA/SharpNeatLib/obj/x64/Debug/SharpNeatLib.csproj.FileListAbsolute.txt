@@ -1,0 +1,12 @@
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharpNeatLib\bin\x64\Debug\SharpNeatLib.dll
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharpNeatLib\bin\x64\Debug\SharpNeatLib.pdb
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharpNeatLib\bin\x64\Debug\SharpNeatLib.XML
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharpNeatLib\bin\x64\Debug\log4net.dll
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharpNeatLib\bin\x64\Debug\SharedParams.dll
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharpNeatLib\bin\x64\Debug\SharedParams.pdb
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharpNeatLib\bin\x64\Debug\log4net.xml
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharpNeatLib\obj\x64\Debug\SharpNeatLib.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharpNeatLib\obj\x64\Debug\SharpNeat.Properties.Resources.resources
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharpNeatLib\obj\x64\Debug\SharpNeatLib.csproj.GenerateResource.Cache
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharpNeatLib\obj\x64\Debug\SharpNeatLib.dll
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharpNeatLib\obj\x64\Debug\SharpNeatLib.pdb

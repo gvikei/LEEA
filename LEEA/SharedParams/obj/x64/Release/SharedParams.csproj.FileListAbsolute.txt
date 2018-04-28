@@ -1,0 +1,4 @@
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharedParams\bin\x64\Release\SharedParams.dll
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharedParams\bin\x64\Release\SharedParams.pdb
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharedParams\obj\x64\Release\SharedParams.dll
+C:\Users\Greg\Desktop\various\school\LEEA-official release\LEEA\SharedParams\obj\x64\Release\SharedParams.pdb
